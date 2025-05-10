@@ -18,3 +18,7 @@ sh submit_regression_ec.sh
 <p align="center">
     Figure: MIMIC-III dataset window parameters illustration
 </p>
+
+
+## Acknowledgements
+The LSTM RNN architecture and data preparation were developed by Derek Berger and Parth Shah (both from Dr. Levman’s laboratory).
