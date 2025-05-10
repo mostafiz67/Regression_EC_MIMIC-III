@@ -20,5 +20,5 @@ sh submit_regression_ec.sh
 </p>
 
 
-## Acknowledgements
+## Acknowledgement
 The LSTM RNN architecture and data preparation were developed by Derek Berger and Parth Shah (both from Dr. Levman’s laboratory).
