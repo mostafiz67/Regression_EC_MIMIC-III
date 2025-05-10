@@ -14,7 +14,7 @@ sh submit_regression_ec.sh
 ```
 
 ## Output
-<img src="https://github.com/mostafiz67/Regression_EC_rUnet/blob/main/parametric_map/ec_method_image_sub_1_raw.png" alt="Simplified parametric map images " width="800" height="800">
+<img src="https://github.com/mostafiz67/Regression_EC_MIMIC-III/blob/main/MIMIC%20Windows.png" alt="MIMIC-III dataset window parameters illustration" width="800" height="800">
 <p align="center">
     Figure: MIMIC-III dataset window parameters illustration
 </p>
